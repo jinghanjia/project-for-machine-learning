@@ -1,2 +1,2 @@
 # project-for-machine-learning
-The project for the
+The project for class
